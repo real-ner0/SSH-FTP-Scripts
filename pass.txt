@@ -1,0 +1,6 @@
+user:hello
+nooo:world
+lol:msfadmin
+msfadmin:msfadmin
+mamadou:Niamey4Ever227!!!
+third:fourth
